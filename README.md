@@ -1,111 +1,111 @@
-# 👋 Hi, I'm Bedjaoui Hadjer
+# Bedjaoui Hadjer
 
-### Full-Stack Developer | Mobile App Developer | Software Engineer
-
-I am a Computer Science graduate passionate about building scalable web and mobile applications, REST APIs, and AI-powered systems.  
-I enjoy turning complex problems into clean, efficient, and user-friendly digital solutions.
+**Full-Stack Developer | Mobile Engineer | Computer Science Graduate**
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Overview
 
-- 🎓 Bachelor’s Degree in Computer Science (University Badji Mokhtar – Annaba)
-- 💻 Full-stack & mobile developer with real-world project experience
-- 🧠 Strong focus on software architecture, clean code, and performance
-- 📱 Passionate about Flutter, React, PHP, and backend systems
-- 🤖 Interested in AI integration and intelligent systems
+Computer Science graduate focused on building scalable web and mobile applications with clean architecture and strong backend systems.
+
+I specialize in full-stack development, REST APIs, and cross-platform mobile applications with a strong focus on performance, maintainability, and user experience.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Stack
 
 ### 💻 Languages
-JavaScript • PHP • Java • Python • Dart • SQL • C • C++
+<p>
+  <img src="https://skillicons.dev/icons?i=js,php,java,python,dart,c,cpp" />
+</p>
 
 ### 🌐 Frontend
-HTML5 • CSS3 • React.js • Flutter • Responsive UI Design
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" />
+</p>
 
 ### ⚙️ Backend
-PHP • MySQL • REST APIs • Authentication Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,nodejs" />
+</p>
 
-### 🧰 Tools & DevOps
-Git • GitHub • Docker • VS Code • XAMPP • n8n
-
-### 🧠 Concepts
-OOP • MVC Architecture • Data Structures • API Design • UI/UX Design
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,xampp" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Selected Projects
 
-### 🏡 DZHouse — Full-Stack Rental Platform
-A modern rental management platform for property listings and bookings.
+### 🏡 DZHouse — Rental Management Platform
+Full-stack web application for property listing, booking, and user management.
 
-- Built authentication, booking system, messaging, and user dashboards
-- Developed backend with PHP & MySQL
-- Designed responsive and interactive frontend UI
+- Built authentication, booking system, and messaging features  
+- Developed backend using PHP and MySQL  
+- Designed responsive and modern user interface  
 
-**Tech:** PHP, MySQL, HTML, CSS, JavaScript
+**Stack:** PHP · MySQL · JavaScript · HTML · CSS  
 
 ---
 
 ### 🧠 PSYRA — Mental Health Support Platform
-A full-stack mental health platform designed for healthcare professionals.
+Full-stack platform designed for healthcare professionals.
 
-- Enables monitoring and support of mental well-being
-- Integrated AI-powered chat assistant for real-time interaction
-- Built with clean architecture and scalable backend design
+- Built scalable backend architecture using Laravel  
+- Integrated AI-powered chat assistant for real-time interaction  
+- Focused on clean system design and user experience  
 
-**Tech:** Laravel, MySQL, JavaScript, AI Chat Integration
+**Stack:** Laravel · MySQL · JavaScript · AI Integration  
 
 ---
 
 ### ☕ Java OOP System
-A desktop application demonstrating strong OOP principles.
+Desktop application demonstrating object-oriented programming principles.
 
-- Implemented inheritance, polymorphism, abstraction
-- Built Swing GUI interface
-- Integrated MySQL database management
+- Implemented inheritance, polymorphism, and abstraction  
+- Developed GUI using Java Swing  
+- Integrated MySQL database  
 
-**Tech:** Java, Swing, MySQL
+**Stack:** Java · Swing · MySQL  
 
 ---
 
 ### 📱 Flutter Mobile Applications
-Cross-platform mobile apps built for Android & iOS.
+Cross-platform mobile apps for Android & iOS.
 
-- Connected to REST APIs
-- Implemented local storage and state management
-- Focused on performance and UI responsiveness
+- Integrated REST APIs for dynamic data handling  
+- Implemented state management and local storage  
+- Focused on responsive UI and performance  
 
-**Tech:** Flutter, Dart, REST APIs
+**Stack:** Flutter · Dart · REST APIs  
 
 ---
 
-## 🎯 What I'm Working On
+## 🎯 Current Focus
 
-- Scalable full-stack applications
-- AI-powered web systems
-- Mobile-first product development
-- Improving system design and architecture skills
+- Building production-ready full-stack applications  
+- Improving backend architecture and system design  
+- Exploring AI integration in real-world apps  
+- Strengthening mobile development skills  
 
 ---
 
 ## 📊 GitHub Goals
 
-- Build production-level projects
-- Contribute to open-source
-- Improve system design knowledge
-- Strengthen backend engineering skills
+- Maintain consistent development activity  
+- Contribute to open-source projects  
+- Build scalable, production-grade systems  
+- Improve software engineering fundamentals  
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 Email: bedjaoui1hadjer@gmail.com  
+- 📧 Email: **bedjaoui1hadjer@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/bedjaoui-hadjer-282028381](https://linkedin.com/in/bedjaoui-hadjer-282028381)  
 - 💻 GitHub: [github.com/bedjaoui1hadjer-beep](https://github.com/bedjaoui1hadjer-beep)
 
 ---
 
-⭐ *“Building software that solves real problems with clean and scalable architecture.”*
+⭐ *Focused on building clean, scalable, and impactful software systems.*
