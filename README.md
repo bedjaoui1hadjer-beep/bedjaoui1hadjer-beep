@@ -39,13 +39,16 @@ I specialize in full-stack development, REST APIs, and cross-platform mobile app
 ## 🚀 Selected Projects
 
 ### 🏡 DZHouse — Rental Management Platform
-Full-stack web application for property listing, booking, and user management.
 
-- Built authentication, booking system, and messaging features  
-- Developed backend using PHP and MySQL  
-- Designed responsive and modern user interface  
+Full-stack property rental and booking platform inspired by modern accommodation marketplaces.
 
-**Stack:** PHP · MySQL · JavaScript · HTML · CSS  
+Developed secure authentication and role-based access control
+Built property listing, search, booking, and reservation management systems
+Implemented real-time messaging between tenants and property owners
+Designed responsive user interfaces optimized for desktop and mobile devices
+Structured backend using Laravel MVC architecture and MySQL database
+
+Stack: Laravel · PHP · MySQL · JavaScript · HTML · CSS
 
 ---
 
