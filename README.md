@@ -38,22 +38,6 @@ I specialize in full-stack development, REST APIs, and cross-platform mobile app
 
 ## 🚀 Selected Projects
 
-### 🌌 Aurora — Attention Recovery & Digital Well-being App
-
-A research-informed mobile application that helps users improve focus, build healthier digital habits, and develop a more intentional relationship with technology.
-
-- Designed a modern cross-platform mobile application with Flutter
-- Built Pomodoro-based focus sessions with multiple productivity modes
-- Implemented habit tracking with streaks, categories, and daily progress
-- Developed an Aurora Score system based on multiple digital well-being metrics
-- Created digital well-being education and daily attention insights
-- Added journaling, cognitive recovery activities, and progress analytics
-- Designed with evidence-informed digital well-being principles and a clean, calming user experience
-
-**Stack:** Flutter · Dart · Riverpod · Material 3
-
----
-
 ### 🏡 DZHouse — Rental Management Platform
 
 Full-stack property rental and booking platform inspired by modern accommodation marketplaces.
@@ -78,6 +62,22 @@ Full-stack platform designed to support mental health awareness and self-assessm
 - Focused on clean system design and responsive user experience
 
 **Stack:** Laravel · PHP · MySQL · JavaScript · HTML · CSS
+
+---
+
+### 🌌 Aurora — Attention Recovery & Digital Well-being App
+
+A research-informed mobile application that helps users improve focus, build healthier digital habits, and develop a more intentional relationship with technology.
+
+- Designed a modern cross-platform mobile application with Flutter
+- Built Pomodoro-based focus sessions with multiple productivity modes
+- Implemented habit tracking with streaks, categories, and daily progress
+- Developed an Aurora Score system based on multiple digital well-being metrics
+- Created digital well-being education and daily attention insights
+- Added journaling, cognitive recovery activities, and progress analytics
+- Designed with evidence-informed digital well-being principles and a clean, calming user experience
+
+**Stack:** Flutter · Dart · Riverpod · Material 3
 
 ---
 
