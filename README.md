@@ -52,11 +52,6 @@
 </td>
 
 </tr>
-</table>
-
----
-
-<table>
 <tr>
 
 <td width="48%" valign="top">
@@ -88,7 +83,6 @@
 </tr>
 </table>
 
----
 
 ### ⚙️ Odoo / ERP
 
