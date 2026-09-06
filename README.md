@@ -16,48 +16,105 @@
 
 ### Languages
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=js,php,python,java,dart,c,cpp" alt="Programming languages">
 </p>
 
-### Frontend
+---
 
-<p>
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+<h3 align="center">Frontend</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend technologies">
 </p>
 
-### Backend
+</td>
 
-<p>
+<td width="4%" align="center">
+
+│
+
+</td>
+
+<td width="48%" valign="top">
+
+<h3 align="center">Backend</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend technologies">
 </p>
 
+</td>
 
-### Mobile
+</tr>
+</table>
 
-<p>
+---
+
+<table>
+<tr>
+
+<td width="48%" valign="top">
+
+<h3 align="center">Mobile</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development">
 </p>
 
-### Databases
+</td>
 
-<p>
+<td width="4%" align="center">
+
+│
+
+</td>
+
+<td width="48%" valign="top">
+
+<h3 align="center">Databases</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases">
 </p>
 
-### Odoo / ERP
+</td>
+
+</tr>
+</table>
+
+---
+
+### ⚙️ Odoo / ERP
+
+<p align="center">
 
 **Odoo · Python · PostgreSQL · XML · ORM · Business Workflows**
 
-### Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development tools">
 </p>
 
-### Other Technologies
+---
+
+### 🔧 Tools & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Development tools">
+</p>
+
+---
+
+### 🌐 Other Technologies
+
+<p align="center">
 
 **Three.js · GSAP · n8n · Chart.js · REST APIs**
+
+</p>
 
 ---
 
@@ -74,7 +131,7 @@
 <table>
 <tr>
 
-<td width="100%" valign="top">
+<td width="50%" valign="top">
 
 ### 🏠 DZHouse
 
@@ -138,7 +195,7 @@ Healthcare management platform
 
 Mobile attention-recovery application
 
-`Mobile` `UX` `Focus Systems`
+`Flutter` `Dart` `Mobile`
 
 </td>
 
@@ -185,7 +242,11 @@ Cross-platform mobile applications
 
 ## 🎯 Currently
 
+<p align="center">
+
 **Odoo 19 · ERP Architecture · Python · PostgreSQL · Custom Modules · Business Automation**
+
+</p>
 
 ---
 
@@ -194,29 +255,24 @@ Cross-platform mobile applications
 <p align="center">
 
 <a href="mailto:bedjaoui1hadjer@gmail.com">
-  <svg width="42" height="42" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="24" rx="4" fill="#EA4335"/>
-    <path d="M4 7.5L12 13L20 7.5" stroke="white" stroke-width="1.7"/>
-    <path d="M4 7.5V17H20V7.5" stroke="white" stroke-width="1.7"/>
-  </svg>
+  <img
+    src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  >
 </a>
 
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
-  <svg width="42" height="42" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <rect width="24" height="24" rx="4" fill="#0A66C2"/>
-    <path d="M7 9V17" stroke="white" stroke-width="2"/>
-    <circle cx="7" cy="6.5" r="1.2" fill="white"/>
-    <path d="M11 17V9M11 12.5C11 10.5 12.2 9 14 9C16.1 9 17 10.5 17 12.5V17" stroke="white" stroke-width="2"/>
-  </svg>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  >
 </a>
 
-
 <a href="https://my-portfolio-e61.pages.dev/">
-  <svg width="42" height="42" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="12" cy="12" r="10" fill="#FF4D6D"/>
-    <circle cx="12" cy="12" r="4" fill="white"/>
-    <path d="M12 2V8M12 16V22M2 12H8M16 12H22" stroke="white" stroke-width="1.5"/>
-  </svg>
+  <img
+    src="https://img.shields.io/badge/Portfolio-FF4D6D?style=for-the-badge&logo=googlechrome&logoColor=white"
+    alt="Portfolio"
+  >
 </a>
 
 </p>
@@ -232,5 +288,8 @@ Cross-platform mobile applications
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=80&section=footer" alt="Footer">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=80&section=footer"
+    alt="Footer"
+  >
 </p>
