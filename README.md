@@ -23,7 +23,11 @@
 ---
 <table>
 <tr>
+<td width="2%" align="center">
 
+│
+
+</td>
 <td width="25%" valign="top">
 
 <h3 align="center">Frontend</h3>
@@ -79,6 +83,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database technologies">
 </p>
+
+</td>
+<td width="2%" align="center">
+
+│
 
 </td>
 
