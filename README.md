@@ -132,7 +132,9 @@
 </a>
 
 </p>
-<table width="100%">
+<div align="center">
+
+<table width="100%" cellspacing="0" cellpadding="20">
 <tr>
 
 <td width="50%" valign="top">
@@ -241,6 +243,9 @@ Cross-platform mobile applications
 
 </tr>
 </table>
+
+</div>
+
 
 ---
 
