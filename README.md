@@ -136,7 +136,7 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏠 DZHouse
 
@@ -152,7 +152,7 @@ Real-estate platform
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🧠 PSYRA
 
@@ -172,7 +172,7 @@ Emotional well-being platform
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏥 Medical Palace
 
@@ -188,7 +188,7 @@ Healthcare management platform
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 📱 Aurora
 
@@ -208,7 +208,7 @@ Mobile attention-recovery application
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### ⚙️ Odoo / ERP
 
@@ -224,7 +224,7 @@ Business management systems
 
 </td>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 📦 Flutter Applications
 
