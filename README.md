@@ -3,19 +3,10 @@
 ### Full-Stack Software Engineer · Mobile Developer · Odoo / ERP Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Mobile+Developer;Odoo+%2F+ERP+Developer;Backend+%26+API+Developer;Building+Practical+Software" alt="Typing animation">
-</p>
-
-<p align="center">
-  <a href="mailto:bedjaoui1hadjer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF4D6D?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/bedjaoui1hadjer-beep">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&size=21&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Mobile+Developer;Odoo+%2F+ERP+Developer;Backend+%26+API+Developer;Building+Practical+Software"
+    alt="Typing animation"
+  />
 </p>
 
 ---
@@ -185,19 +176,49 @@ Laravel Architecture · REST APIs · Flutter · System Design · Software Engine
 <p align="center">
 
 <a href="mailto:bedjaoui1hadjer@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    width="45"
+    height="45"
+    alt="Gmail"
+  />
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img
+    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    width="45"
+    height="45"
+    alt="LinkedIn"
+  />
 </a>
 
-<a href="https://github.com/bedjaoui1hadjer-beep">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://your-portfolio-url.com">
+  <img
+    src="https://cdn.simpleicons.org/googlechrome/ffffff"
+    width="45"
+    height="45"
+    alt="Portfolio"
+  />
 </a>
 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=90&section=footer" alt="Animated footer">
+  <a href="mailto:bedjaoui1hadjer@gmail.com">Gmail</a>
+  &nbsp; · &nbsp;
+  <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://your-portfolio-url.com">Portfolio</a>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=90&section=footer"
+    alt="Animated footer"
+  />
 </p>
