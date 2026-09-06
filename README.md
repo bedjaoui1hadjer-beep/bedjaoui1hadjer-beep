@@ -100,7 +100,7 @@
 ### 🔧 Tools & Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" alt="Development tools">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,n8n" alt="Development tools">
 </p>
 
 ---
