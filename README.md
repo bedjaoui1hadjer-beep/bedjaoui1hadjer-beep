@@ -1,34 +1,51 @@
-# Bedjaoui Hadjer
+# 👋 Hi, I'm Bedjaoui Hadjer
 
-**Full-Stack Software Engineer · Mobile Developer · Odoo / ERP Developer**
+### Full-Stack Software Engineer · Mobile Developer · Odoo / ERP Developer
 
-Computer Science graduate focused on building **web applications, mobile products, business systems, and backend architectures**.
+I build **web applications, mobile products, backend systems, APIs, and business software** with a focus on clean architecture, maintainability, performance, and practical solutions.
 
-I work across the full development stack — from responsive interfaces and mobile applications to REST APIs, databases, ERP customization, and business workflow automation.
+My work spans the full development stack — from responsive interfaces and cross-platform mobile applications to REST APIs, databases, ERP customization, and business workflow automation.
 
-I enjoy turning real-world requirements into **maintainable, scalable, and practical software systems**.
-
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science graduate and software developer based in **Annaba, Algeria**.
-
-My work spans several areas of software engineering:
-
-* Full-Stack Web Development
-* Backend & REST API Development
-* Cross-Platform Mobile Development
-* Odoo / ERP Development
-* Database Design & Integration
-* Business Workflow Automation
-* System Integration
-
-I care about more than making applications work. I focus on **clean architecture, maintainability, performance, usability, and solving the actual problem behind the software**.
+> **I build software that solves real problems — not just software that works.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="mailto:bedjaoui1hadjer@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FF4D6D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
+    <img src="https://img.shields.io/badge/LinkedIn-FF4D6D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/bedjaoui1hadjer-beep">
+    <img src="https://img.shields.io/badge/GitHub-FF4D6D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Computer Science graduate and software developer focused on building practical and maintainable software systems.
+
+### What I work with
+
+* 💻 Full-Stack Web Development
+* ⚙️ Backend & REST API Development
+* 📱 Cross-Platform Mobile Development
+* 🏢 Odoo / ERP Development
+* 🗄️ Database Design & Integration
+* 🔄 Business Workflow Automation
+* 🔗 System Integration
+* 🧩 Software Architecture
+
+I care about more than making applications functional. I focus on **clean architecture, maintainability, performance, usability, scalability, and solving the actual problem behind the software**.
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -48,7 +65,7 @@ I care about more than making applications work. I focus on **clean architecture
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgres" />
 </p>
 
-### 📱 Mobile
+### 📱 Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
@@ -56,7 +73,7 @@ I care about more than making applications work. I focus on **clean architecture
 
 ### 🏢 ERP & Business Systems
 
-**Odoo · PostgreSQL · Python · XML · ORM · ERP · Business Workflows**
+**Odoo · Python · PostgreSQL · XML · ORM · ERP · Business Workflows**
 
 ### 🧰 Tools & Infrastructure
 
@@ -76,7 +93,7 @@ I care about more than making applications work. I focus on **clean architecture
 
 A full-stack property rental and booking platform designed around the core workflows of modern accommodation marketplaces.
 
-### Key Features
+**Key Features**
 
 * Secure authentication and authorization
 * Role-based access control
@@ -98,7 +115,7 @@ A full-stack platform designed to support **mental well-being assessment, mood t
 
 The project focuses on responsible software design rather than diagnosis, combining a structured backend with a responsive user experience.
 
-### Key Features
+**Key Features**
 
 * Secure authentication
 * Structured self-assessment workflows
@@ -113,6 +130,7 @@ The project focuses on responsible software design rather than diagnosis, combin
 **Stack:** Laravel · PHP · MySQL · JavaScript · HTML · CSS · n8n
 
 ---
+
 ## 🏥 Medical Palace
 
 A digital platform project developed for a medical/dental business environment.
@@ -142,7 +160,7 @@ The project explores how software can be used to improve business workflows and 
 
 A cross-platform mobile application focused on **attention management, digital well-being, productivity, and healthier technology habits**.
 
-### Key Features
+**Key Features**
 
 * Pomodoro focus sessions
 * Deep Work, Study, Reading, Coding and Writing modes
@@ -164,7 +182,7 @@ A cross-platform mobile application focused on **attention management, digital w
 
 Developing practical experience with **Odoo 19 development and ERP customization**.
 
-### Areas of Focus
+**Areas of Focus**
 
 * Custom Odoo modules
 * Python business logic
@@ -187,7 +205,7 @@ Developing practical experience with **Odoo 19 development and ERP customization
 
 Desktop software project demonstrating core object-oriented programming concepts and database integration.
 
-### Implemented
+**Implemented**
 
 * Encapsulation
 * Inheritance
@@ -205,7 +223,7 @@ Desktop software project demonstrating core object-oriented programming concepts
 
 Collection of cross-platform mobile applications developed with Flutter.
 
-### Focus Areas
+**Focus Areas**
 
 * REST API integration
 * State management
@@ -221,29 +239,15 @@ Collection of cross-platform mobile applications developed with Flutter.
 
 # 🧩 What I Build
 
-### Full-Stack Applications
-
-End-to-end web applications with modern frontend interfaces, structured backend architectures, APIs, authentication, databases, and business logic.
-
-### Odoo / ERP Solutions
-
-Custom modules, business workflows, models, views, reports, integrations, and ERP customization.
-
-### Mobile Applications
-
-Cross-platform applications with Flutter, REST APIs, state management, local persistence, and responsive interfaces.
-
-### Backend & APIs
-
-RESTful APIs, authentication systems, database architecture, business logic, and backend services.
-
-### Business Automation
-
-Workflow automation and system integrations designed to reduce repetitive manual processes.
-
-### Database & Systems
-
-Relational database design, PostgreSQL/MySQL integration, data modeling, and system architecture.
+| Area          | What I Build                                                         |
+| ------------- | -------------------------------------------------------------------- |
+| 💻 Full-Stack | Web applications, authentication, APIs, databases and business logic |
+| 🏢 Odoo / ERP | Custom modules, workflows, models, views, reports and integrations   |
+| 📱 Mobile     | Cross-platform Flutter applications and REST API integrations        |
+| ⚙️ Backend    | REST APIs, authentication, business logic and backend services       |
+| 🔄 Automation | Business workflows and system integrations                           |
+| 🗄️ Databases | PostgreSQL/MySQL architecture, data modeling and integration         |
+| 🔗 Systems    | Software integrations and practical business solutions               |
 
 ---
 
@@ -284,34 +288,43 @@ I value:
 
 # 📈 GitHub
 
-I'm using GitHub to document my development journey through:
+I use GitHub to document my development journey through:
 
 * Production-oriented projects
-* Open-source experiments
-* Odoo modules
 * Full-stack applications
+* Odoo modules
 * Mobile applications
 * Backend systems
+* Open-source experiments
 * Software architecture experiments
+* Automation and integration projects
 
 ---
 
-# 📫 Contact
-
-**Email:** [bedjaoui1hadjer@gmail.com](mailto:bedjaoui1hadjer@gmail.com)
-
-**LinkedIn:**
-https://linkedin.com/in/bedjaoui-hadjer-282028381
-
-**GitHub:**
-https://github.com/bedjaoui1hadjer-beep
-
----
-
-## ⚡ Let's Build Something Useful
+# 🤝 Open to Opportunities
 
 I'm interested in opportunities involving:
 
 **Full-Stack Development · Odoo / ERP · Backend Engineering · Mobile Development · Automation · Software Systems**
 
-⭐ *Building practical software with thoughtful design, solid engineering, and real-world impact.*
+I'm particularly interested in environments where I can contribute to real-world software projects while continuing to grow as a software engineer.
+
+---
+
+## 📫 Contact
+
+📧 **Email:** [bedjaoui1hadjer@gmail.com](mailto:bedjaoui1hadjer@gmail.com)
+
+💼 **LinkedIn:**
+https://linkedin.com/in/bedjaoui-hadjer-282028381
+
+🐙 **GitHub:**
+https://github.com/bedjaoui1hadjer-beep
+
+---
+
+### ⚡ Let's Build Something Useful
+
+**Practical software · Thoughtful design · Solid engineering · Real-world impact**
+
+⭐ Thanks for visiting my profile.
