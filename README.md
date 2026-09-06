@@ -102,7 +102,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,n8n" alt="Development tools">
 </p>
-
 ---
 
 ### 🌐 Other Technologies
@@ -274,13 +273,6 @@ Cross-platform mobile applications
 
 </p>
 
-<p align="center">
-  <a href="mailto:bedjaoui1hadjer@gmail.com">Gmail</a>
-  &nbsp; · &nbsp;
-  <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="https://my-portfolio-e61.pages.dev/">Portfolio</a>
-</p>
 
 ---
 
