@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I'm Bedjaoui Hadjer
 
 ### Full-Stack Software Engineer · Mobile Developer · Odoo / ERP Developer
@@ -23,9 +22,9 @@
 
 ## 🚀 About Me
 
-Computer Science graduate focused on building **real-world software systems** across web, mobile, backend, and business automation.
+Computer Science graduate focused on building real-world software systems across web, mobile, backend, and business automation.
 
-I turn complex requirements into **clean, maintainable, and scalable applications**.
+I turn complex requirements into clean, maintainable, and scalable applications.
 
 - 💻 Full-Stack Web Development
 - 📱 Mobile Development
@@ -35,41 +34,47 @@ I turn complex requirements into **clean, maintainable, and scalable application
 - 🤖 Workflow Automation
 - 🧩 Software Architecture
 
-> **Build software that solves the real problem — not just software that works.**
+> Build software that solves the real problem — not just software that works.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=js,php,python,java,dart,c,cpp" alt="Languages">
+  <img src="https://skillicons.dev/icons?i=js,php,python,java,dart,c,cpp" alt="Languages">
 </p>
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend">
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend">
 </p>
 
 ### Backend & Databases
+
 <p>
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres" alt="Backend and databases">
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,mysql,postgres" alt="Backend and databases">
 </p>
 
 ### Mobile
+
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile">
 </p>
 
 ### Odoo / ERP
-**Odoo · Python · PostgreSQL · XML · ORM · Business Workflows**
+
+Odoo · Python · PostgreSQL · XML · ORM · Business Workflows
 
 ### Tools & Technologies
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,threejs" alt="Tools">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,threejs" alt="Tools">
 </p>
 
-**GSAP · REST APIs · n8n · Chart.js**
+GSAP · REST APIs · n8n · Chart.js
 
 ---
 
@@ -77,60 +82,75 @@ I turn complex requirements into **clean, maintainable, and scalable application
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏠 DZHouse
+
 Full-stack real-estate platform.
 
-**React · Laravel · MySQL · REST API**
+React · Laravel · MySQL · REST API
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🧠 PSYRA
+
 Digital emotional well-being platform.
 
-**React · Laravel · Chart.js · n8n**
+React · Laravel · Chart.js · n8n
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🏥 Medical Palace
+
 Healthcare-oriented management platform.
 
-**React · Laravel · MySQL**
+React · Laravel · MySQL
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📱 Aurora
+
 Mobile attention-recovery application.
 
-**Mobile · UX · Focus Systems**
+Mobile · UX · Focus Systems
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### ⚙️ Odoo / ERP
+
 Custom business-management systems.
 
-**Odoo · Python · PostgreSQL · XML**
+Odoo · Python · PostgreSQL · XML
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📦 Flutter Applications
+
 Cross-platform mobile applications.
 
-**Flutter · Dart · APIs · UI/UX**
+Flutter · Dart · APIs · UI/UX
 
 </td>
+
 </tr>
 </table>
 
@@ -140,29 +160,23 @@ Cross-platform mobile applications.
 
 <p align="center">
 
-**Odoo 19** → **ERP Architecture** → **Python + PostgreSQL** → **Custom Modules** → **Business Workflows** → **Automation**
+<strong>Odoo 19</strong>
+→
+<strong>ERP Architecture</strong>
+→
+<strong>Python + PostgreSQL</strong>
+→
+<strong>Custom Modules</strong>
+→
+<strong>Business Workflows</strong>
+→
+<strong>Automation</strong>
 
 </p>
 
-**Also exploring:** Laravel Architecture · REST APIs · Flutter · System Design · Software Engineering
+Also exploring:
 
----
-
-## 🧠 Engineering Philosophy
-
-<p align="center">
-
-**Understand → Design → Build → Test → Improve**
-
-</p>
-
-Clean architecture · Maintainable code · Practical solutions · Good UX · Reliable systems · Scalable business logic
-
----
-
-## 🤝 Open to Opportunities
-
-**Full-Stack Development · Odoo / ERP · Backend Development · Mobile Development · Software Engineering**
+Laravel Architecture · REST APIs · Flutter · System Design · Software Engineering
 
 ---
 
@@ -171,15 +185,15 @@ Clean architecture · Maintainable code · Practical solutions · Good UX · Rel
 <p align="center">
 
 <a href="mailto:bedjaoui1hadjer@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/bedjaoui1hadjer-beep">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </p>
@@ -187,4 +201,3 @@ Clean architecture · Maintainable code · Practical solutions · Good UX · Rel
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=90&section=footer" alt="Animated footer">
 </p>
-```
