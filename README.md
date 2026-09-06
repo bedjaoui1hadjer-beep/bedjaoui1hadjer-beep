@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=js,php,python,java,dart,c,cpp" alt="Programming languages">
 </p>
 
-**SQL · Assembly / MIPS · MATLAB**
-
 ### Frontend
 
 <p>
@@ -34,7 +32,6 @@
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" alt="Backend technologies">
 </p>
 
-**REST APIs · PHP · Laravel · Node.js**
 
 ### Mobile
 
@@ -42,15 +39,11 @@
   <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development">
 </p>
 
-**Flutter · Dart · Flutter SDK · Android Studio**
-
 ### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases">
 </p>
-
-**SQL · MySQL · PostgreSQL**
 
 ### Odoo / ERP
 
@@ -61,8 +54,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" alt="Development tools">
 </p>
-
-**XAMPP · Laragon · Git · GitHub · Docker · VS Code **
 
 ### Other Technologies
 
@@ -83,7 +74,7 @@
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 ### 🏠 DZHouse
 
@@ -210,8 +201,6 @@ Cross-platform mobile applications
   </svg>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
   <svg width="42" height="42" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <rect width="24" height="24" rx="4" fill="#0A66C2"/>
@@ -221,7 +210,6 @@ Cross-platform mobile applications
   </svg>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://my-portfolio-e61.pages.dev/">
   <svg width="42" height="42" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
