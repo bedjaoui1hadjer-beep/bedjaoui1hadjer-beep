@@ -21,11 +21,10 @@
 </p>
 
 ---
-
 <table>
 <tr>
 
-<td width="48%" valign="top">
+<td width="25%" valign="top">
 
 <h3 align="center">Frontend</h3>
 
@@ -35,13 +34,13 @@
 
 </td>
 
-<td width="4%" align="center">
+<td width="2%" align="center">
 
 │
 
 </td>
 
-<td width="48%" valign="top">
+<td width="25%" valign="top">
 
 <h3 align="center">Backend</h3>
 
@@ -51,37 +50,41 @@
 
 </td>
 
-</tr>
-<tr>
-
-<td width="48%" valign="top">
-
-<h3 align="center">Mobile</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile development">
-</p>
-
-</td>
-
-<td width="4%" align="center">
+<td width="2%" align="center">
 
 │
 
 </td>
 
-<td width="48%" valign="top">
+<td width="25%" valign="top">
+
+<h3 align="center">Mobile</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Mobile technologies">
+</p>
+
+</td>
+
+<td width="2%" align="center">
+
+│
+
+</td>
+
+<td width="25%" valign="top">
 
 <h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Databases">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Database technologies">
 </p>
 
 </td>
 
 </tr>
 </table>
+
 
 
 ### ⚙️ Odoo / ERP
