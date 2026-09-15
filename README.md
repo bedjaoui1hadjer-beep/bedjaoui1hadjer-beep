@@ -142,21 +142,15 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
-<td align="center" width="180" style="border: none;">
-
-<a href="mailto:bedjaoui1hadjer@gmail.com">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-    width="45"
-    height="45"
-    alt="Gmail"
-  >
-</a>
-
-<br>
-
-<strong>Gmail</strong>
-
+<td align="center">
+  <a href="javascript:void(0)"
+     onclick="navigator.clipboard.writeText('bedjaoui1hadjer@gmail.com')"
+     title="Copy email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335"
+         alt="Gmail"
+         width="40"
+         height="40">
+  </a>
 </td>
 
 <td width="30" style="border: none;"></td>
