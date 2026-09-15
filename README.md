@@ -128,48 +128,76 @@
 
 ---
 
-## 📫 Connect
+## 📫 Contact
 
-<p align="center">
+<table align="center">
+<tr>
+
+<td align="center" width="180">
 
 <a href="mailto:bedjaoui1hadjer@gmail.com">
   <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
+    src="https://cdn.simpleicons.org/gmail"
     width="45"
     height="45"
     alt="Gmail"
   >
-  <br>
+</a>
+
+<br><br>
+
+<a href="mailto:bedjaoui1hadjer@gmail.com">
   <strong>Gmail</strong>
 </a>
 
-      
+</td>
+
+<td width="60">
+</td>
+
+<td align="center" width="180">
 
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
   <img
-    src="https://cdn.simpleicons.org/linkedin/0A66C2"
+    src="https://cdn.simpleicons.org/linkedin"
     width="45"
     height="45"
     alt="LinkedIn"
   >
-  <br>
+</a>
+
+<br><br>
+
+<a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
   <strong>LinkedIn</strong>
 </a>
 
-      
+</td>
+
+<td width="60">
+</td>
+
+<td align="center" width="180">
 
 <a href="https://my-portfolio-e61.pages.dev/">
   <img
-    src="https://cdn.simpleicons.org/googlechrome/FF4D6D"
+    src="https://cdn.simpleicons.org/googlechrome"
     width="45"
     height="45"
     alt="Portfolio"
   >
-  <br>
+</a>
+
+<br><br>
+
+<a href="https://my-portfolio-e61.pages.dev/">
   <strong>Portfolio</strong>
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
