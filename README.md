@@ -147,7 +147,7 @@
 
 <a href="mailto:bedjaoui1hadjer@gmail.com">
   <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
     width="45"
     height="45"
     alt="Gmail"
@@ -166,7 +166,7 @@
 
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
   <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
     width="45"
     height="45"
     alt="LinkedIn"
@@ -185,7 +185,7 @@
 
 <a href="https://wa.me/213000000000">
   <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg"
+    src="https://cdn.simpleicons.org/whatsapp/25D366"
     width="45"
     height="45"
     alt="WhatsApp"
@@ -204,7 +204,7 @@
 
 <a href="https://my-portfolio-e61.pages.dev/">
   <img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"
+    src="https://cdn.simpleicons.org/googlechrome/4285F4"
     width="45"
     height="45"
     alt="Portfolio"
@@ -219,6 +219,7 @@
 
 </tr>
 </table>
+
 
 ---
 
