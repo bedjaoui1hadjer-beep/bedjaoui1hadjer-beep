@@ -153,7 +153,7 @@
   height="42">
 </a>
 <br>
-<sub><b>Email</b></sub>
+<sub><b>bedjaoui1hadjer@gmail.com</b></sub>
 </td>
 
 <td width="30" style="border: none;"></td>
