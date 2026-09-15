@@ -103,7 +103,7 @@
 
 <p align="center">
   <img
-    src="https://cdn.simpleicons.org/odoo/714B67"
+    src="https://cdn.simpleicons.org/odoo"
     width="48"
     height="48"
     alt="Odoo"
@@ -111,7 +111,7 @@
   >
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.simpleicons.org/python/3776AB"
+    src="https://cdn.simpleicons.org/python"
     width="48"
     height="48"
     alt="Python"
@@ -119,7 +119,7 @@
   >
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.simpleicons.org/postgresql/4169E1"
+    src="https://cdn.simpleicons.org/postgresql"
     width="48"
     height="48"
     alt="PostgreSQL"
@@ -127,7 +127,7 @@
   >
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.simpleicons.org/xml/005FAD"
+    src="https://cdn.simpleicons.org/xml"
     width="48"
     height="48"
     alt="XML"
