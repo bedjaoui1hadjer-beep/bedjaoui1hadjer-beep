@@ -26,7 +26,9 @@
 <tr>
 
 <td width="2%" align="center">
+
 │
+
 </td>
 
 <td width="25%" valign="top">
@@ -40,7 +42,9 @@
 </td>
 
 <td width="2%" align="center">
+
 │
+
 </td>
 
 <td width="25%" valign="top">
@@ -54,7 +58,9 @@
 </td>
 
 <td width="2%" align="center">
+
 │
+
 </td>
 
 <td width="25%" valign="top">
@@ -68,7 +74,9 @@
 </td>
 
 <td width="2%" align="center">
+
 │
+
 </td>
 
 <td width="25%" valign="top">
@@ -82,7 +90,9 @@
 </td>
 
 <td width="2%" align="center">
+
 │
+
 </td>
 
 </tr>
@@ -130,7 +140,10 @@
 
 ## 📫 Contact
 
-<p align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+
+<td align="center" width="180" style="border: none;">
 
 <a href="mailto:bedjaoui1hadjer@gmail.com">
   <img
@@ -139,11 +152,17 @@
     height="45"
     alt="Gmail"
   >
-  <br>
-  <strong>Gmail</strong>
 </a>
 
-        
+<br>
+
+<strong>Gmail</strong>
+
+</td>
+
+<td width="30" style="border: none;"></td>
+
+<td align="center" width="180" style="border: none;">
 
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
   <img
@@ -152,11 +171,17 @@
     height="45"
     alt="LinkedIn"
   >
-  <br>
-  <strong>LinkedIn</strong>
 </a>
 
-        
+<br>
+
+<strong>LinkedIn</strong>
+
+</td>
+
+<td width="30" style="border: none;"></td>
+
+<td align="center" width="180" style="border: none;">
 
 <a href="https://wa.me/213000000000">
   <img
@@ -165,11 +190,17 @@
     height="45"
     alt="WhatsApp"
   >
-  <br>
-  <strong>WhatsApp</strong>
 </a>
 
-        
+<br>
+
+<strong>WhatsApp</strong>
+
+</td>
+
+<td width="30" style="border: none;"></td>
+
+<td align="center" width="180" style="border: none;">
 
 <a href="https://my-portfolio-e61.pages.dev/">
   <img
@@ -178,11 +209,16 @@
     height="45"
     alt="Portfolio"
   >
-  <br>
-  <strong>Portfolio</strong>
 </a>
 
-</p>
+<br>
+
+<strong>Portfolio</strong>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
