@@ -215,9 +215,6 @@
 <td width="30" style="border: none;"></td>
 </tr>
 </table>
-
----
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=80&section=footer"
