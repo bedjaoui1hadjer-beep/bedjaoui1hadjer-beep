@@ -99,13 +99,44 @@
 </table>
 
 ---
-
 ### ⚙️ Odoo / ERP
 
 <p align="center">
+  <img
+    src="https://cdn.simpleicons.org/odoo/714B67"
+    width="48"
+    height="48"
+    alt="Odoo"
+    title="Odoo"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.simpleicons.org/python/3776AB"
+    width="48"
+    height="48"
+    alt="Python"
+    title="Python"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.simpleicons.org/postgresql/4169E1"
+    width="48"
+    height="48"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+  >
+  &nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.simpleicons.org/xml/005FAD"
+    width="48"
+    height="48"
+    alt="XML"
+    title="XML"
+  >
+</p>
 
-**Odoo · Python · PostgreSQL · XML · ORM · Business Workflows**
-
+<p align="center">
+  <strong>Odoo · Python · PostgreSQL · XML · ORM · Business Workflows</strong>
 </p>
 
 ---
