@@ -137,19 +137,20 @@
 </p>
 
 ---
+
 ## 📫 Contact
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <td align="center" width="180">
-<a href="javascript:void(0)"
-onclick="navigator.clipboard.writeText('bedjaoui1hadjer@gmail.com')"
-title="Copy email">
-<img src="https://cdn.simpleicons.org/gmail/EA4335"
-alt="Gmail"
-width="42"
-height="42">
+<a href="mailto:bedjaoui1hadjer@gmail.com"
+   title="Send me an email">
+<img
+  src="https://cdn.simpleicons.org/gmail/EA4335"
+  alt="Gmail"
+  width="42"
+  height="42">
 </a>
 <br>
 <sub><b>Email</b></sub>
@@ -214,7 +215,6 @@ height="42">
 
 </tr>
 </table>
-
 
 ---
 
