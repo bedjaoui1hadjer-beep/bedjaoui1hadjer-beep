@@ -283,11 +283,11 @@ Cross-platform mobile applications
     alt="Portfolio"
   >
 </a>
-
-</p>
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=FF4D6D&height=80&section=footer"
     alt="Footer"
   >
+</p>
+
 </p>
