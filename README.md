@@ -157,15 +157,7 @@
 
 </p>
 
----
 
-## 🎯 Currently
-
-<p align="center">
-
-**Odoo 19 · ERP Architecture · Python · PostgreSQL · Custom Modules · Business Automation**
-
-</p>
 
 ---
 
