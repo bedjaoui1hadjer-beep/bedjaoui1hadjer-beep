@@ -130,74 +130,59 @@
 
 ## 📫 Contact
 
-<table align="center">
-<tr>
-
-<td align="center" width="180">
+<p align="center">
 
 <a href="mailto:bedjaoui1hadjer@gmail.com">
   <img
-    src="https://cdn.simpleicons.org/gmail"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg"
     width="45"
     height="45"
     alt="Gmail"
   >
-</a>
-
-<br><br>
-
-<a href="mailto:bedjaoui1hadjer@gmail.com">
+  <br>
   <strong>Gmail</strong>
 </a>
 
-</td>
-
-<td width="60">
-</td>
-
-<td align="center" width="180">
+        
 
 <a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
   <img
-    src="https://cdn.simpleicons.org/linkedin"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg"
     width="45"
     height="45"
     alt="LinkedIn"
   >
-</a>
-
-<br><br>
-
-<a href="https://linkedin.com/in/bedjaoui-hadjer-282028381">
+  <br>
   <strong>LinkedIn</strong>
 </a>
 
-</td>
+        
 
-<td width="60">
-</td>
+<a href="https://wa.me/213000000000">
+  <img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/whatsapp.svg"
+    width="45"
+    height="45"
+    alt="WhatsApp"
+  >
+  <br>
+  <strong>WhatsApp</strong>
+</a>
 
-<td align="center" width="180">
+        
 
 <a href="https://my-portfolio-e61.pages.dev/">
   <img
-    src="https://cdn.simpleicons.org/googlechrome"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg"
     width="45"
     height="45"
     alt="Portfolio"
   >
-</a>
-
-<br><br>
-
-<a href="https://my-portfolio-e61.pages.dev/">
+  <br>
   <strong>Portfolio</strong>
 </a>
 
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
