@@ -1,7 +1,8 @@
-# 👋 Hi, I'm Bedjaoui Hadjer
+<h1 align="center">👋 Hi, I'm Bedjaoui Hadjer</h1>
 
-### Full-Stack Software Engineer · Mobile Developer · Odoo / ERP Developer
-
+<h3 align="center">
+  Full-Stack Software Engineer · Mobile Developer · Odoo / ERP Developer
+</h3>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Mobile+Developer;Odoo+%2F+ERP+Developer;Backend+%26+API+Developer" alt="Typing animation">
 </p>
