@@ -37,7 +37,7 @@
 <h3 align="center">Frontend</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend technologies">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" alt="Frontend technologies">
 </p>
 
 </td>
